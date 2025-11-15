@@ -17,4 +17,4 @@
 - [x] 7) Review and revise readme file from original repository and updated as new features are added.
 - [x] [ ] [ ] 8) Review main game file and determine 3 improvements or changes that coould me made to the game.  Check each box as you make improvements. Updated project roadmap with new milestone each time new feature is updated and added.
 - [x] 9) Add feature displaying basic game controls during gameplay on the bottom of the screen.
-- [ ] 10) Add feature creating a "Golden Corn" which gives the user bonus points.
+- [x] 10) Add feature so the chicken heigh resets once you reach the top of the screen.  It will appear as if the chicken is looping like in a traditional aracade style game.
