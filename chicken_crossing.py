@@ -251,6 +251,12 @@ def game_loop(difficulty, color_scheme):
                     logging.info("Surprise! A random pigeon flies by and steals a corn!")
                     corns.pop(0)
                     corns.append(Corn())
+                    
+                # check if chicken succesfully crossed the road
+                if chicken.y <= 5:
+                    chicken.score += 50
+                    chicken.x, chicken.y = WIDTH // 2, HEIGHT - 60
+                    logging.info("hooray! The chicken made it across! Bonus Points!!!")
 
             # Draw everything
             screen.fill(background_color)
