@@ -15,9 +15,10 @@
 - [x] 6) Experiment with clone and address issues and the notes you made while selecting it.
 - After multiple failed attemps at a viable program to clone for a metals calculator without using expensive APIs or frameworks well beyond my capabilities switch project topic to frogger/crossy road style game.
 - [x] 7) Review and revise readme file from original repository and updated as new features are added.
-- [x] [x] [ ] 8) Review main game file and determine 3 improvements or changes that coould me made to the game.  Check each box as you make improvements. Updated project roadmap with new milestone each time new feature is updated and added.
+- [x] [x] [X] 8) Review main game file and determine 3 improvements or changes that coould me made to the game.  Check each box as you make improvements. Updated project roadmap with new milestone each time new feature is updated and added.
 - [x] 9) Add feature displaying basic game controls during gameplay on the bottom of the screen.
 - [x] 10) Add feature so the chicken heigh resets once you reach the top of the screen.  It will appear as if the chicken is looping like in a traditional aracade style game.
-- [ ] 11) Add feature displaying a small in game message in the upper left hand corner when the player hits 1,000 points.
+- [X] 11) Add feature displaying a small in game message in the upper left hand corner when the player hits 1,000 points.
+            - 11) This feature gave me particular trouble when testing.  The first several iterations I tried utilizing all resulted in the game erroneously closing when you hit 1000 points.  After some trouble shooting I determined there was an excepting causing the game to close.
 - [ ] 12) Review all features and documenting comments. Test features and gameplay for usability.
 - [ ] 13) Update Readme file with new features if applicable.
