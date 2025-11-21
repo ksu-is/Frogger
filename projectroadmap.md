@@ -18,6 +18,6 @@
 - [x] [x] [ ] 8) Review main game file and determine 3 improvements or changes that coould me made to the game.  Check each box as you make improvements. Updated project roadmap with new milestone each time new feature is updated and added.
 - [x] 9) Add feature displaying basic game controls during gameplay on the bottom of the screen.
 - [x] 10) Add feature so the chicken heigh resets once you reach the top of the screen.  It will appear as if the chicken is looping like in a traditional aracade style game.
-- [ ] 11) 
+- [ ] 11) Add feature displaying a small in game message in the upper left hand corner when the player hits 1,000 points.
 - [ ] 12) Review all features and documenting comments. Test features and gameplay for usability.
 - [ ] 13) Update Readme file with new features if applicable.
