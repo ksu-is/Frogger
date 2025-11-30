@@ -81,6 +81,7 @@ When you start the game, you'll see the main menu with the following options:
 
 ### Gameplay
 Your goal is to guide the chicken across a busy highway, avoiding cars and collecting corn to earn points.
+Controls will be displayed on the screen during gameplay for ease of use.
 
 #### Controls
 - **Arrow Keys**:
