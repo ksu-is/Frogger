@@ -21,7 +21,7 @@
 - [X] 11) Add feature displaying a small in game message in the upper left hand corner when the player hits 1,000 points.
             - 11) This feature gave me particular trouble when testing.  The first several iterations I tried utilizing all resulted in the game erroneously closing when you hit 1000 points.  After some trouble shooting I determined there was an excepting causing the game to close.
 - [x] 12) Review all features and documenting comments. Test features and gameplay for usability.
-- [ ] 13) Update Readme file with new features if applicable.
+- [x] 13) Update Readme file with new features if applicable.
 - [ ] 14) Conduct final gameplay testing and updated/edit readme files for project sprint 3.
 - [ ] 15) Create project slide for sprint 3.
 - [ ] 16) Upload project slide to Github Repository.
