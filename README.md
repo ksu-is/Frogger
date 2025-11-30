@@ -111,6 +111,7 @@ Controls will be displayed on the screen during gameplay for ease of use.
 #### Funny Events
 - **Random Pigeon**: Occasionally, a pigeon steals a corn piece, adding a new one elsewhere (1% chance per frame).
 - **Humorous Messages**: Collecting corn or other events triggers funny messages like "Why did the chicken join a band? It had the drumsticks!" (displayed in the console/log).
+- **1000 Point Message**: When you reach 1000 points a funny message will display and a new funny message will also run in the terminal when this occurs.
 
 ### Tips for Success
 - **Time Your Moves**: Watch the cars' patterns to find safe gaps for crossing.
