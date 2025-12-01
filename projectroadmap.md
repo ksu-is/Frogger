@@ -25,4 +25,4 @@
 - [x] 14) Conduct final gameplay testing and updated/edit readme files for project sprint 3.
 - [X] 15) Create project slide for sprint 3.
 - [x] 16) Upload project slide to Github Repository.
-- [ ] 17) Schedule presentation in Microsoft Teams chat.
+- [x] 17) Schedule presentation in Microsoft Teams chat.
