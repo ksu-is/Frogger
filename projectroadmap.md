@@ -23,6 +23,6 @@
 - [x] 12) Review all features and documenting comments. Test features and gameplay for usability.
 - [x] 13) Update Readme file with new features if applicable.
 - [x] 14) Conduct final gameplay testing and updated/edit readme files for project sprint 3.
-- [ ] 15) Create project slide for sprint 3.
+- [X] 15) Create project slide for sprint 3.
 - [ ] 16) Upload project slide to Github Repository.
 - [ ] 17) Schedule presentation in Microsoft Teams chat.
